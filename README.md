@@ -1,5 +1,3 @@
----
-
 # Smart Grid Stability Prediction
 
 ##  Abstract
